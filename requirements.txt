@@ -1,0 +1,8 @@
+pynrrd
+numpy
+scipy
+matplotlib
+scikit-image
+patato
+pacfish
+simpa
